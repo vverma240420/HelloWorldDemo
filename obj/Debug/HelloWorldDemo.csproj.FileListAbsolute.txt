@@ -1,0 +1,8 @@
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.csproj.AssemblyReference.cache
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\bin\Debug\HelloWorldDemo.exe.config
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\bin\Debug\HelloWorldDemo.exe
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\bin\Debug\HelloWorldDemo.pdb
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.exe
+C:\Users\KIIT\source\repos\HelloWorldDemo\HelloWorldDemo\obj\Debug\HelloWorldDemo.pdb
